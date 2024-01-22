@@ -112,7 +112,7 @@
     "Description": "The size of the hosting plan (small - 1, medium - 2, or large - 3). Default value: 1"
   },
   "gitRepoUrl": {
-    "Value": "https://github.com/OfficeDev/microsoft-teams-company-communicator-app.git",
+    "Value": "https://github.com/chethankumarsg/O365-team.git",
     "Description": "The URL to the GitHub repository to deploy."
   },
   "gitBranch": {
@@ -120,7 +120,7 @@
     "Description": "The branch of the GitHub repository to deploy."
   },
   "appDisplayName": {
-    "Value": "Company Communicator",
+    "Value": "Infoseccompanycommunicator",
     "Description": "The app (and bot) display name."
   },
   "appDescription": {
@@ -132,7 +132,7 @@
     "Description": "The link to the icon for the app. It must resolve to a PNG file."
   },
   "headerText": {
-    "Value": "Company Communicator",
+    "Value": "Infoseccompanycommunicator",
     "Description": "The header banner text."
   },
   "headerLogoUrl": {
